@@ -13,5 +13,5 @@
 
 训练数据集有1300万条，epoch=20，batch_size=128(可以设置为1024)
 
-[数据集](链接：https://pan.baidu.com/s/1Lc9dKoXHFJK8c0yYxvZTMA)提取码：0pfx 
+[数据集] (https://pan.baidu.com/s/1Lc9dKoXHFJK8c0yYxvZTMA)提取码：0pfx 
 
