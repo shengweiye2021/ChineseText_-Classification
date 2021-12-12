@@ -16,5 +16,7 @@
 
 训练数据集有1300万条，epoch=20，batch_size=128(可以设置为1024)
 
-[数据集] (链接：https://pan.baidu.com/s/1o4f5CsyhJjT7de076ZOa0Q)提取码：4921
+[数据集] (链接：https://pan.baidu.com/s/1o4f5CsyhJjT7de076ZOa0Q 
+提取码：4921 
+--来自百度网盘超级会员V2的分享)
 
